@@ -1,0 +1,14 @@
+body{
+    background-color:aquamarine;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ; font-weight: bold;
+}
+
+    p{
+        font-family: sans-serif;
+        color:blue;
+        background-color:red;
+    }
+    body{
+        color:chartreuse;
+    }
+
